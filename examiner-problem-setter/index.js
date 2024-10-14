@@ -1,3 +1,7 @@
+// Problems addressed:
+// 1. Paper getting leaked
+// 2. The DB which contains the questions getting hacked
+
 const crypto = require('crypto');
 
 const PROBLEM_STATEMENT = 'What is 2 + 2?';
